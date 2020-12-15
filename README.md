@@ -4,16 +4,17 @@ by Tahmina Ringer
 
 ## Links/Resources
 
-- [GitHub PR](https://github.com/Tahmina-Ringer-401-advanced-javascript/api-server/pull/6)
+- [GitHub PR](https://github.com/tahminaringer/basic-auth/pull/1)
 - [Heroku](Not Deployed)
 
-Basic express server using modularization, middleware MongoDB, Mongoose and tests and deploying to heroku.
+Basic express server using modularization, middleware and tests.
+`npm i` express, MongoDB, Mongoose and jest.
 
 ## Setup
 
 - **.env Requirements**
   - PORT=3000
-  - MONGOOSE_URI=mongodb://localhost:27017/flowers
+  - MONGOOSE_URI=mongodb://localhost:27017/signup
 
 ## Running the App
 
